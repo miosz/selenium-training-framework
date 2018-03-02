@@ -2,7 +2,6 @@ package pageobject.pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
-import utils.driver.WebDriverCreator;
 import utils.waits.CustomWait;
 
 public class BasePage {
